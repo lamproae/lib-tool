@@ -1,0 +1,4 @@
+#! /bin/sh
+# This is a dummy file for bootstrapping libtool.
+echo "$0: Bootstrap detected, no files installed." | sed 's,^.*/,,g'
+exit 0
